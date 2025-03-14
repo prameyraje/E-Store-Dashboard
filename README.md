@@ -1,6 +1,6 @@
 # E-Store Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/73faaf62-c3bd-4f02-a9c5-a51a460f7e9a/6f236c03d9f15f2693ae?experience=power-bi
+### Dashboard Link :[ https://app.powerbi.com/groups/me/reports/73faaf62-c3bd-4f02-a9c5-a51a460f7e9a/6f236c03d9f15f2693ae?experience=power-bi](https://app.powerbi.com/links/eNbM5b3hVk?ctid=32b0fab4-3361-4771-b92c-0bc17579f388&pbi_source=linkShare)
 
 
 ## Problem Statement
