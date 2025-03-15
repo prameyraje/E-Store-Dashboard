@@ -1,5 +1,7 @@
 # E-Store Dashboard
 
+# Dashboard Link : <iframe title="E-Store Dashboard" width="600" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiMjFiZGYyZGEtZTY5MS00NGFmLThlMzItNjY4ZTQxZDE1M2UyIiwidCI6ImI4ZTA5ODljLTk5MmQtNGY2ZC04ZWFiLTIxMTI0ZTMyYzk0OCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 ## Problem Statement
 
 This dashboard provides insights into the sales performance of an e-commerce store by analyzing key business metrics such as revenue, profit, order distribution, and customer trends. By leveraging this data, businesses can make informed decisions to enhance sales strategies, optimize product offerings, and improve overall profitability.
