@@ -1,6 +1,6 @@
 # E-Store Dashboard
 
-# Dashboard Link : <iframe title="E-Store Dashboard" width="600" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiMjFiZGYyZGEtZTY5MS00NGFmLThlMzItNjY4ZTQxZDE1M2UyIiwidCI6ImI4ZTA5ODljLTk5MmQtNGY2ZC04ZWFiLTIxMTI0ZTMyYzk0OCJ9" frameborder="0" allowFullScreen="true"></iframe>
+# Dashboard Link : "https://app.powerbi.com/view?r=eyJrIjoiMjFiZGYyZGEtZTY5MS00NGFmLThlMzItNjY4ZTQxZDE1M2UyIiwidCI6ImI4ZTA5ODljLTk5MmQtNGY2ZC04ZWFiLTIxMTI0ZTMyYzk0OCJ9" 
 
 ## Problem Statement
 
